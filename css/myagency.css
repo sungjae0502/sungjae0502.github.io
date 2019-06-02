@@ -15,5 +15,6 @@ text-transform: none;
 }
 
 intro-lead-in.{
- font-family: 'Noto Sans TC', sans-serif;	
+ font-family: 'Noto Sans TC', sans-serif;
+ font-style:normal; 
 }
