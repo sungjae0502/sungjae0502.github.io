@@ -23,3 +23,6 @@ text-transform: none;
  font-family: 'Noto Sans TC', sans-serif;	
 }
 
+.navbar-brand js-scroll-trigger{
+ font-family: 'Noto Sans TC', sans-serif;	
+}
