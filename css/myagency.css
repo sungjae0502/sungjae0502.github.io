@@ -38,7 +38,6 @@ nav.navbar navbar-expand-lg navbar-dark fixed-top {
 .navbar-brand{
 	color:#FFFFFF!important;
 }
-
-.p{
- color:#ccb14e!important;	
+.fas fa-circle fa-stack-2x text-primary{
+	color: #ccb14e!important;
 }
