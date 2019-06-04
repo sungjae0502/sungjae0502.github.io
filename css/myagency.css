@@ -1,10 +1,3 @@
-.col-mb-4{
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
-
 body {
 font-family: 'Noto Sans TC', sans-serif;
 }
@@ -25,4 +18,26 @@ text-transform: none;
 
 .navbar-brand js-scroll-trigger{
  font-family: 'Noto Sans TC', sans-serif;	
+}
+
+.intro-heading{
+  font-family: 'Noto Sans TC', sans-serif !important;	
+}
+nav.navbar navbar-expand-lg navbar-dark fixed-top {
+	background-color:#ccb97e!important;
+}
+#mainNav.navbar-shrink{
+	background-color:#6795b8!important;
+}
+
+
+.btn-primary {
+    background-color: #ccb14e!important;
+	border-color:#ccb14e!important;
+}
+.navbar-brand{
+	color:#FFFFFF!important;
+}
+.fas {
+	color:#ccb14e!important;
 }
