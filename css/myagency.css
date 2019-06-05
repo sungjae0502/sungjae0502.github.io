@@ -30,14 +30,13 @@ nav.navbar navbar-expand-lg navbar-dark fixed-top {
 	background-color:#6795b8!important;
 }
 
-
 .btn-primary {
-    background-color: #ccb14e!important;
-	border-color:#ccb14e!important;
+    background-color: #6795b8!important;
+	border-color:#6795b8!important;
 }
 .navbar-brand{
 	color:#FFFFFF!important;
 }
-.fas fa-circle fa-stack-2x text-primary{
-	color: #ccb14e!important;
+.fa-circle {
+	color: #6795b8!important;
 }
