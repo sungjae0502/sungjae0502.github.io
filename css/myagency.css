@@ -23,9 +23,11 @@ text-transform: none;
 .intro-heading{
   font-family: 'Noto Sans TC', sans-serif !important;	
 }
-
+nav.navbar navbar-expand-lg navbar-dark fixed-top {
+	background-color:#ccb97e!important;
+}
 #mainNav.navbar-shrink{
- background-color:#6795b8!important;
+	background-color:#6795b8!important;
 }
 
 .btn-primary {
