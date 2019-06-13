@@ -43,3 +43,8 @@ nav.navbar navbar-expand-lg navbar-dark fixed-top {
 section#contact .section-heading {
 color:#6795b8!important;
 }
+p.e{
+	font-family: 'Noto Sans TC', sans-serif !important;
+	font-style:normal !important;
+	color:#808080!important;
+}
